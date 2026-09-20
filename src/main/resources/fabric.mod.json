@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "tektopia",
+  "version": "${version}",
+  "name": "Tektopia",
+  "description": "Villager tools and the foundation for smarter villages.",
+  "authors": ["You"],
+  "license": "MIT",
+  "icon": "assets/tektopia/textures/item/town_charter.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.tektopia.Tektopia"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

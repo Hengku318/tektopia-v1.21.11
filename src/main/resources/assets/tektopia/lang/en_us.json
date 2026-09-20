@@ -1,0 +1,6 @@
+{
+  "item.tektopia.town_charter": "Town Charter",
+  "message.tektopia.villager_info": "Profession: %s | Level: %s | XP: %s | Health: %s/%s",
+  "message.tektopia.villager_count": "%s villager(s) within %s blocks",
+  "message.tektopia.player_only": "This command can only be used by a player"
+}
